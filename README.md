@@ -5,5 +5,6 @@ Percepción ciudadana sobre el servicio de venta minorista en línea: Estudio de
    con las modificaciones especificadas para el análisis de sentimientos.
 - Minorista_analisis: Modelado de tópicos y análisis de sentimiento.
 - graficos.ipynb: Realizacion de gráficos descriptivos de los tweets.
+- data: Se encuentran los archivos generados tanto en R como en python. El archivo zip contiene los datos brutos de los tweets.
 
 
